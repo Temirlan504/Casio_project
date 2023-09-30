@@ -1,4 +1,4 @@
-# Digital Watch with and Arduino and I2C OLED Display
+# Digital Watch with an Arduino and I2C OLED Display
 
 This project demonstrates how to create a digital watch using Arduino and an I2C OLED display with a resolution of 64x32 pixels.
 The project utilizes the `Wire.h` library for communication between Arduino and the display. 
